@@ -1,8 +1,10 @@
+#### Notebook might not open because of heavy visuals, you can see it on kaggle also https://www.kaggle.com/shweta2407/oversampling-vs-undersampling-techniques
+
 # How to classify a highly unbalanced or skewed data ?
 
 An unbalanced data or skewed data is the dataset that has its most of the data falling in one class and rest in others.
 
-![unbalanced-data-graph](https://github.com/epicure24/Classifier-for-highly-unbalanced-data/blob/main/indi1.png)
+![unbalanced-data-graph](https://github.com/epicure24/Classifier-for-highly-unbalanced-data/blob/main/images/indi1.png)
 
 To classify this type of data, we need to first balance the data. 
 
@@ -10,7 +12,7 @@ To classify this type of data, we need to first balance the data.
 
 Apply different resampling techniques to balance the data : there are 2 kinds of resampling techniques - OVERSAMPLING & UNDERSAMPLING techniques.
 
-![balanced-data-graph](https://github.com/epicure24/Classifier-for-highly-unbalanced-data/blob/main/index.png)
+![balanced-data-graph](https://github.com/epicure24/Classifier-for-highly-unbalanced-data/blob/main/images/index.png)
 
 ## OVERSAMPLING Techniques
 
